@@ -1,0 +1,30 @@
+# Global ignores
+.DS_Store
+Thumbs.db
+
+# Java and Spring Boot
+/restaurant-spring/target/
+/restaurant-spring/*.log
+/restaurant-spring/*.class
+/restaurant-spring/*.jar
+/restaurant-spring/*.war
+/restaurant-spring/*.ear
+
+# Node.js
+/react-spring/node_modules/
+/react-spring/npm-debug.log
+/react-spring/yarn-debug.log
+/react-spring/yarn-error.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+ 
